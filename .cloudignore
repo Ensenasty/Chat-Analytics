@@ -132,3 +132,5 @@ dmypy.json
 .reqs
 .build
 .init
+README.md
+LICENSE
