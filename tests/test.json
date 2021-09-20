@@ -1,0 +1,2003 @@
+==> /home/hector/Downloads/TelegramDesktop/Ensenada-20210917/result.json <==
+{
+ "name": "🐳 Telegram Ensenada 🇲🇽",
+ "type": "public_supergroup",
+ "id": 1499886055,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2019-06-24T11:09:46",
+   "actor": "🐳 Telegram Ensenada 🇲🇽",
+   "actor_id": "channel1499886055",
+   "action": "create_channel",
+   "title": "Telegram Ensenada 🇲🇽🐳",
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2019-06-24T11:36:38",
+   "actor": "Rey David Dominguez",
+   "actor_id": "user10244644",
+   "action": "invite_members",
+   "members": [
+    "Rey David Dominguez"
+   ],
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2019-06-24T11:54:07",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Hola hola"
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2019-06-24T11:56:22",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "file": "stickers/sticker.webp",
+   "thumbnail": "stickers/sticker.webp_thumb.jpg",
+   "media_type": "sticker",
+   "sticker_emoji": "👋",
+   "width": 512,
+   "height": 389,
+   "text": ""
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2019-06-24T11:56:44",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "file": "video_files/156005085813618618.gif.mp4",
+   "thumbnail": "video_files/156005085813618618.gif.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 12,
+   "width": 180,
+   "height": 320,
+   "text": ""
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2019-06-24T11:56:48",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Party"
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2019-06-25T09:00:18",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Hah nadie ha caído parece que somos los únicos entusiastas de Telegram"
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2019-06-25T09:03:16",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/Ensenada_BC"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2019-06-25T09:06:12",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "y cual es el objetivo del grupo?"
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2019-06-25T09:08:30",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Se me ocurre todo lo que tenga que ver con la ciudad, atención a visitantes y turistas, responder dudas, promocionar otros canales de contenido local, noticias, etc"
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2019-06-25T09:08:47",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "file": "stickers/sticker (1).webp",
+   "thumbnail": "stickers/sticker (1).webp_thumb.jpg",
+   "media_type": "sticker",
+   "sticker_emoji": "🤔",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2019-06-25T09:09:16",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Algo así.. suena muy kumbaya todos somos amigos, la realidad puede ser distinta pero PS.. a ver qué pasa"
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2019-06-25T09:09:24",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "reply_to_message_id": 13,
+   "text": "Jajaja"
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2019-06-25T09:11:02",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Que chistoso, el grupo es igual a cualquier supergrupo excepto que no veo donde agregar el stickers pack oficial"
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2019-06-25T09:11:37",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "no sabia que se podia hacer eso en los grupos 😆"
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2019-06-25T09:13:03",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Haha so a todos los que están les aparece como instalado mientras estén en el grupo"
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2019-06-25T09:13:23",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Si se van a otros grupos no lo pueden usar. Tampoco en sus chats"
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2019-06-25T09:13:29",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "orale, no sabia 😆"
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2019-06-25T09:13:49",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Esta curada jaj"
+  },
+  {
+   "id": 22,
+   "type": "service",
+   "date": "2019-06-25T23:04:58",
+   "actor": "Felipe Perez",
+   "actor_id": "user874938085",
+   "action": "invite_members",
+   "members": [
+    "Felipe Perez"
+   ],
+   "text": ""
+  },
+  {
+   "id": 23,
+   "type": "service",
+   "date": "2019-06-25T23:06:55",
+   "actor": "Felipe Perez",
+   "actor_id": "user874938085",
+   "action": "remove_members",
+   "members": [
+    "Felipe Perez"
+   ],
+   "text": ""
+  },
+  {
+   "id": 24,
+   "type": "service",
+   "date": "2019-06-26T08:24:24",
+   "actor": "Antonio Quintana",
+   "actor_id": "user34950479",
+   "action": "invite_members",
+   "members": [
+    "Antonio Quintana"
+   ],
+   "text": ""
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2019-06-26T08:27:13",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Yo apenas hoy me instalé la actualización, y me metí a ver qué había."
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2019-06-26T08:27:40",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Imagino con el tiempo vendrán más."
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2019-06-26T08:28:12",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "Sabe, muy pocos usan telegram"
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2019-06-26T08:31:16",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Sí, pero poco a poco."
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2019-06-26T08:32:02",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "Ocupa qué las compañías telefónicas lo promocionen como red social \"gratis\""
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2019-06-26T08:32:22",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Eso sí sería mucho."
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2019-06-26T08:32:35",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "De cierto modo es mejor que poca gente lo use."
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2019-06-26T08:32:49",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Excepto cuando se cae Whatsapp."
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2019-06-26T08:33:20",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "No le veo lo malo de que la gente lo use 🤔"
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2019-06-26T08:44:27",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Yo tampoco 🤔"
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2019-06-27T17:36:12",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "reply_to_message_id": 29,
+   "text": "Eso pasa que Facebook paga una labora para que WhatsApp y Messenger no consuman datos"
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2019-06-27T17:36:50",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Y dejan fuera de la pichada a Telegram"
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2019-06-27T17:38:14",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Lo malo que hay cualquier cantidad de estafas que son posibles porque WhatsApp y Facebook son un mal chiste  en cuanto a privacidad y seguridad"
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2019-06-27T19:26:54",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Umm no sabía que FB pagaba algo"
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2019-06-27T19:38:04",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Oh si"
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2019-06-27T19:38:18",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "A los proveedores de telefonía celular"
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2019-06-27T19:39:32",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Es el famoso y controversial programa \"Free Basics\" que se supone es para apoyar a países en vía de desarrollo con fines educativos"
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2019-06-27T19:40:19",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "La realidad es que se trataba de lograr trato preferencial a Facebook y sus aplicaciones sociales en todo el mundo"
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2019-06-27T19:41:07",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Algunos también incluyen Twitter. ¿Pasa algo parecido?"
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2019-06-27T19:41:14",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Así mientras Snapchat te cuesta por cada snap porque consume datos, instagram es gratis obvio nadie quiere gastar sus datos"
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2019-06-27T19:41:41",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Twitter hace su propio trato con las telefónicas"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2019-06-27T19:42:09",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Ellos están desde antes cuando se podían Twittear por SMS"
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2019-06-27T19:42:32",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Por eso el límite eran 140 caracteres. Es el tamaño de un SMS"
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2019-06-27T19:43:05",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Recuerdo eso. Había algunas páginas para mandar tweets con sms, hace unos 10 años."
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2019-06-27T19:43:11",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "via_bot": "@wiki",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://es.wikipedia.org/wiki/Free_Basics_by_Facebook"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2019-06-27T19:44:48",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Estaba bien chido antes de que existiera el iPhone de hecho se podía twittear desde tu cel por SMS. Mientras no te doliera el codo pagar 5 pesos por cada twit por SMS  a un número internacional  😂"
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2019-06-27T19:45:51",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "En México había un sitio que también hacía eso."
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2019-06-27T19:46:03",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": [
+    "Creo ",
+    {
+     "type": "link",
+     "text": "twittea.me"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2019-06-27T19:47:02",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Creo que el grupo debería llamarse SoftDev Ensenada o algo así jajajaja."
+  },
+  {
+   "id": 54,
+   "type": "service",
+   "date": "2019-06-27T19:47:44",
+   "actor": "H. Lecuanda H-Lo 🇲🇽",
+   "actor_id": "user217722386",
+   "action": "invite_members",
+   "members": [
+    "Rose"
+   ],
+   "text": ""
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2019-06-27T19:47:44",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start@MissRose_bot"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2019-06-27T19:48:35",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start@MissRose_bot"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2019-06-27T19:49:23",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Este bot está bien chido"
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2019-06-27T19:49:44",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Lo modificaré para que tenga sabor a Ensenada"
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2019-06-27T19:49:59",
+   "from": "Rey David Dominguez",
+   "from_id": "user10244644",
+   "text": "no lo conocia, normalmente no estoy en grupos grandes y en los grupos chicos uso mi bot 😆"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2019-06-27T19:51:13",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Hay un bot de R, aunque no lo he probado bien."
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2019-06-27T19:51:35",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Es el que está rifando junto con el banhammer de xxdamage"
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2019-06-27T19:52:07",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "reply_to_message_id": 62,
+   "text": "Órale chido! Haces data science ?"
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2019-06-27T19:52:52",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Hacía algo en mis anteriores trabajos. Ahora en el doctorado convencí a mis asesores de usarlo también."
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2019-06-27T19:53:21",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    "Checate Colaboratory de Google Research ",
+    {
+     "type": "link",
+     "text": "https://colab.research.google.com"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2019-06-27T19:53:38",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "A ver."
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2019-06-27T19:54:06",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Básicamente es Jupyter Notebooks con una máquina virtual, integración a GitHub y colaboración vía Google drive"
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2019-06-27T19:54:17",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Igual que docs y sheets"
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2019-06-27T19:54:23",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Ahh eso justo necesito ahora."
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2019-06-27T19:54:33",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Es el sueño húmedo de los analistas"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2019-06-27T19:54:53",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Para presentar la PdC a los sinodales."
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2019-06-27T19:56:06",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Pues no te compliques la vida con Docker y kubernetes y toda la infraestructura.. sube tu Notebook, y mándales bun correo, podrán agregar anotaciones a cada celda"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2019-06-27T19:56:14",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Así como ejecutarlas a su paso"
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2019-06-27T19:56:21",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Sí, solo eso necesito."
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2019-06-27T20:00:49",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Además tiene una extraordinaria ventaja: acceso privilegiado a Google cloud con autorizaciones simplificadas"
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2019-06-27T20:01:27",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Puedes acceder a los datasets públicos de bigquery"
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2019-06-27T20:04:55",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Y esas VMs además de ser gratuitas las puedes activar con GPUs opcionalmente, ya traen las librerías y drivers configurados con todo y el scipy stack y tensorflow"
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2019-06-27T20:04:57",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Eso estaba viendo. Aunque nunca me metí mucho a GCP. Me casé con AWS por el trabajo."
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2019-06-27T20:05:19",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Prácticamente solo hacen falta las ganas de hacer algo chido"
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2019-06-27T20:05:41",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Bueno. Usar GPUs es algo costoso."
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2019-06-27T20:05:57",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Pero sí."
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2019-06-27T20:08:06",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Lo que está disponible en colab no es lo máximo, pero es una aceleración nada despreciable considerando que es gratis y que está todo listo para disparar"
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2019-06-27T20:08:38",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Sin duda es de gran ayuda para empezar algo."
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2019-06-27T20:11:12",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Muy al estilo de Google hay desviaciones del estándar que podrían morderte en algún momento por ejemplo colab usa MathJax para renderizar tu LaTeX mientras Jupyter usa mathjs"
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2019-06-27T20:12:11",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Igual no pretendo hacer nada muy elaborado. Al menos no el primer año."
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2019-06-27T20:14:10",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Excelente! CICESE?"
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2019-06-27T20:33:28",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Ahí mero."
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2019-06-27T21:17:03",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Genial 👍"
+  },
+  {
+   "id": 90,
+   "type": "service",
+   "date": "2019-07-03T08:48:04",
+   "actor": "José Enciso",
+   "actor_id": "user15277606",
+   "action": "invite_members",
+   "members": [
+    "José Enciso"
+   ],
+   "text": ""
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2019-07-03T17:39:56",
+   "from": "Antonio Quintana",
+   "from_id": "user34950479",
+   "text": "Se supone que en momentos así es cuando Telegram registra más usuarios nuevos."
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2019-07-04T11:09:36",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    "Algo así. Telegram lleva las de perder porque no está en el mercado de la publicidad. Esta en el mercado de hacer enojar a Vladimir Putin. Hasta hace poco entendí ese punto dadas las características y prestaciones de servicios alrededor de Telegram como lo es ",
+    {
+     "type": "link",
+     "text": "telegra.ph"
+    },
+    " o ",
+    {
+     "type": "link",
+     "text": "perisco.pe"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2019-07-04T11:15:22",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    "Básicamente habilitan la publicación anónima de cualquier contenido sin posibilidad de rastrear o sancionar al autor. Y eso es tremendamente poderoso, en términos políticos por ejemplo. En términos publicitarios es inútiles en tanto la medición de esos contenidos públicos es demasiado limitada (puedes saber, por ejemplo, cuántas veces ha sido servida una publicación de ",
+    {
+     "type": "link",
+     "text": "telegra.ph"
+    },
+    ", pero es imposible ningún tipo de segmentación de esta métrica p.ej, si el artículo fue leído o no en su totalidad o si fue servido a un navegador operado por humanos o a un crawler o scraper automatizado)"
+   ]
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2019-07-04T11:19:04",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://telegra.ph/A-Margarita-Debayle-07-21"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2019-07-04T11:19:52",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Telegraph permite por ejemplo este tipo de publicaciones visibles en el web público así como vista instantánea dentro de Telegram"
+  },
+  {
+   "id": 97,
+   "type": "service",
+   "date": "2019-07-13T00:30:57",
+   "actor": null,
+   "actor_id": "user480941853",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2019-07-13T00:31:17",
+   "from": null,
+   "from_id": "user480941853",
+   "text": "👌👍"
+  },
+  {
+   "id": 100,
+   "type": "service",
+   "date": "2019-07-17T06:08:51",
+   "actor": "J J",
+   "actor_id": "user888302186",
+   "action": "invite_members",
+   "members": [
+    "J J"
+   ],
+   "text": ""
+  },
+  {
+   "id": 107,
+   "type": "service",
+   "date": "2019-08-13T22:18:08",
+   "actor": null,
+   "actor_id": "user769247809",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2019-08-13T22:18:34",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Good"
+  },
+  {
+   "id": 110,
+   "type": "service",
+   "date": "2019-08-13T22:19:23",
+   "actor": "Rey David Dominguez",
+   "actor_id": "user10244644",
+   "action": "remove_members",
+   "members": [
+    "Rey David Dominguez"
+   ],
+   "text": ""
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2019-08-13T22:21:08",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "👍"
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2019-08-13T22:21:11",
+   "from": null,
+   "from_id": "user769247809",
+   "file": "stickers/sticker (2).webp",
+   "thumbnail": "stickers/sticker (2).webp_thumb.jpg",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2019-08-13T22:21:24",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Hola"
+  },
+  {
+   "id": 115,
+   "type": "service",
+   "date": "2019-08-14T00:17:32",
+   "actor": null,
+   "actor_id": "user804670868",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2019-08-14T05:40:22",
+   "from": "J J",
+   "from_id": "user888302186",
+   "text": "Hola"
+  },
+  {
+   "id": 118,
+   "type": "service",
+   "date": "2019-08-14T11:26:14",
+   "actor": null,
+   "actor_id": "user945984312",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2019-08-14T11:26:20",
+   "from": null,
+   "from_id": "user945984312",
+   "text": "Hola"
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2019-08-14T11:44:17",
+   "from": null,
+   "from_id": "user804670868",
+   "text": "Hola saludos"
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2019-08-14T20:45:50",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Hola pen"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2019-08-14T20:45:53",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Es"
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2019-08-14T20:46:05",
+
+==> /home/hector/Downloads/TelegramDesktop/ensenadaBC-20210917/result.json <==
+{
+ "name": "Ensenada BC👍",
+ "type": "private_supergroup",
+ "id": 1478887842,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2019-08-13T22:19:54",
+   "actor": "Ensenada BC👍",
+   "actor_id": "channel1478887842",
+   "action": "create_channel",
+   "title": "Ensenada BC",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2019-08-13T22:20:03",
+   "from": null,
+   "from_id": "user769247809",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😡",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2019-08-13T22:20:16",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "👍"
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2019-08-13T22:20:20",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "😏"
+  },
+  {
+   "id": 5,
+   "type": "service",
+   "date": "2019-08-14T00:16:23",
+   "actor": null,
+   "actor_id": "user804670868",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2019-08-14T16:08:54",
+   "from": null,
+   "from_id": "user804670868",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 7,
+   "type": "service",
+   "date": "2019-08-20T14:25:34",
+   "actor": null,
+   "actor_id": "user945731229",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 8,
+   "type": "service",
+   "date": "2019-08-22T14:41:12",
+   "actor": null,
+   "actor_id": "user931312698",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 9,
+   "type": "service",
+   "date": "2019-08-28T12:05:49",
+   "actor": null,
+   "actor_id": "user979030108",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 10,
+   "type": "service",
+   "date": "2019-09-02T00:43:40",
+   "actor": null,
+   "actor_id": "user959117348",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2019-09-02T00:43:49",
+   "from": null,
+   "from_id": "user959117348",
+   "text": "Hello"
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2019-09-02T00:47:45",
+   "from": null,
+   "from_id": "user959117348",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😨",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2019-09-02T00:47:48",
+   "from": null,
+   "from_id": "user959117348",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👋",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2019-09-02T20:12:12",
+   "from": null,
+   "from_id": "user931312698",
+   "text": "Hola"
+  },
+  {
+   "id": 15,
+   "type": "service",
+   "date": "2019-09-04T20:06:08",
+   "actor": null,
+   "actor_id": "user857760978",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 16,
+   "type": "service",
+   "date": "2019-09-04T20:15:47",
+   "actor": null,
+   "actor_id": "user857760978",
+   "action": "remove_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 17,
+   "type": "service",
+   "date": "2019-09-11T17:36:49",
+   "actor": "Liam Ismael Milan Magno lll",
+   "actor_id": "user741611890",
+   "action": "invite_members",
+   "members": [
+    "Liam Ismael Milan Magno lll"
+   ],
+   "text": ""
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2019-09-11T17:37:02",
+   "from": "Liam Ismael Milan Magno lll",
+   "from_id": "user741611890",
+   "text": "Sax"
+  },
+  {
+   "id": 19,
+   "type": "service",
+   "date": "2019-09-12T11:51:29",
+   "actor": null,
+   "actor_id": "user950266350",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2019-09-12T14:36:31",
+   "from": null,
+   "from_id": "user950266350",
+   "text": "Qué tal chavos cómo estan"
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2019-09-22T16:28:35",
+   "from": null,
+   "from_id": "user931312698",
+   "text": "Todo bien"
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2019-09-22T16:28:37",
+   "from": null,
+   "from_id": "user931312698",
+   "text": "Tu?"
+  },
+  {
+   "id": 23,
+   "type": "service",
+   "date": "2019-10-04T08:42:10",
+   "actor": null,
+   "actor_id": "user919084046",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2019-10-04T08:42:15",
+   "from": null,
+   "from_id": "user919084046",
+   "text": "Hola saludos"
+  },
+  {
+   "id": 25,
+   "type": "service",
+   "date": "2019-10-08T21:56:06",
+   "actor": null,
+   "actor_id": "user711288904",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 26,
+   "type": "service",
+   "date": "2019-10-08T23:14:26",
+   "actor": "Alfredo",
+   "actor_id": "user169960850",
+   "action": "invite_members",
+   "members": [
+    "Alfredo"
+   ],
+   "text": ""
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2019-10-08T23:14:31",
+   "from": "Alfredo",
+   "from_id": "user169960850",
+   "text": "Hola a todos"
+  },
+  {
+   "id": 28,
+   "type": "service",
+   "date": "2019-10-08T23:41:30",
+   "actor": "Alfredo",
+   "actor_id": "user169960850",
+   "action": "remove_members",
+   "members": [
+    "Alfredo"
+   ],
+   "text": ""
+  },
+  {
+   "id": 29,
+   "type": "service",
+   "date": "2019-10-28T19:49:31",
+   "actor": null,
+   "actor_id": "user770643624",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 30,
+   "type": "service",
+   "date": "2019-11-08T21:55:30",
+   "actor": null,
+   "actor_id": "user755982878",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2019-11-08T21:55:46",
+   "from": null,
+   "from_id": "user755982878",
+   "text": "What is up folks"
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2019-11-08T21:56:00",
+   "from": null,
+   "from_id": "user755982878",
+   "text": "Hola e buenas noches"
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2019-11-08T21:57:06",
+   "from": null,
+   "from_id": "user755982878",
+   "text": "Fiesta en Ensenada hoy?"
+  },
+  {
+   "id": 34,
+   "type": "service",
+   "date": "2019-11-30T21:40:34",
+   "actor": "Alan Lazcano",
+   "actor_id": "user389802995",
+   "action": "invite_members",
+   "members": [
+    "Alan Lazcano"
+   ],
+   "text": ""
+  },
+  {
+   "id": 35,
+   "type": "service",
+   "date": "2019-12-04T14:53:36",
+   "actor": null,
+   "actor_id": "user952213247",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 36,
+   "type": "service",
+   "date": "2019-12-05T02:29:57",
+   "actor": null,
+   "actor_id": "user1049523632",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2019-12-05T14:38:17",
+   "from": "Alan Lazcano",
+   "from_id": "user389802995",
+   "text": "Qué onda Banda....  que cuentan ??  Este grupo está muy apagado ....  no hay mujeres aquí verdad ?"
+  },
+  {
+   "id": 38,
+   "type": "service",
+   "date": "2020-01-05T16:46:28",
+   "actor": null,
+   "actor_id": "user992561323",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 39,
+   "type": "service",
+   "date": "2020-01-13T16:32:06",
+   "actor": null,
+   "actor_id": "user1054235330",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2020-01-13T16:32:12",
+   "from": null,
+   "from_id": "user1054235330",
+   "text": "Holaaa"
+  },
+  {
+   "id": 41,
+   "type": "service",
+   "date": "2020-01-21T11:20:20",
+   "actor": "Pedro Rivera",
+   "actor_id": "user596577107",
+   "action": "invite_members",
+   "members": [
+    "Pedro Rivera"
+   ],
+   "text": ""
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2020-02-03T06:10:42",
+   "from": null,
+   "from_id": "user992561323",
+   "text": "Hola"
+  },
+  {
+   "id": 43,
+   "type": "service",
+   "date": "2020-02-15T20:28:26",
+   "actor": "Denis",
+   "actor_id": "user806409014",
+   "action": "invite_members",
+   "members": [
+    "Denis"
+   ],
+   "text": ""
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2020-02-15T23:07:00",
+   "from": "Liam Ismael Milan Magno lll",
+   "from_id": "user741611890",
+   "text": "Holaa ✋🏽"
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2020-02-16T13:44:36",
+   "from": null,
+   "from_id": "user919084046",
+   "text": "What sup"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2020-02-22T22:48:29",
+   "from": "Liam Ismael Milan Magno lll",
+   "from_id": "user741611890",
+   "text": "Shalom"
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2020-02-22T22:49:11",
+   "edited": "2020-02-22T22:49:31",
+   "from": "Liam Ismael Milan Magno lll",
+   "from_id": "user741611890",
+   "text": "Esto esta muy tranquilo"
+  },
+  {
+   "id": 48,
+   "type": "service",
+   "date": "2020-02-25T16:26:29",
+   "actor": "H. Lecuanda H-Lo 🇲🇽",
+   "actor_id": "user217722386",
+   "action": "invite_members",
+   "members": [
+    "H. Lecuanda H-Lo 🇲🇽"
+   ],
+   "text": ""
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2020-02-25T16:26:44",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Hola a todos!"
+  },
+  {
+   "id": 50,
+   "type": "service",
+   "date": "2020-02-26T22:43:09",
+   "actor": "Isaias Alberto Dominguez Sanmiguel",
+   "actor_id": "user739893283",
+   "action": "invite_members",
+   "members": [
+    "Isaias Alberto Dominguez Sanmiguel"
+   ],
+   "text": ""
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2020-02-27T12:36:03",
+   "from": null,
+   "from_id": "user919084046",
+   "text": "Saludos"
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2020-03-03T12:01:37",
+   "from": null,
+   "from_id": "user770643624",
+   "text": "✌️"
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2020-03-03T12:05:09",
+   "from": null,
+   "from_id": "user770643624",
+   "text": "Hola"
+  },
+  {
+   "id": 54,
+   "type": "service",
+   "date": "2020-03-03T22:01:49",
+   "actor": null,
+   "actor_id": "user770643624",
+   "action": "remove_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 55,
+   "type": "service",
+   "date": "2020-03-04T03:28:55",
+   "actor": "Isaias Alberto Dominguez Sanmiguel",
+   "actor_id": "user739893283",
+   "action": "remove_members",
+   "members": [
+    "Isaias Alberto Dominguez Sanmiguel"
+   ],
+   "text": ""
+  },
+  {
+   "id": 56,
+   "type": "service",
+   "date": "2020-03-14T12:02:22",
+   "actor": null,
+   "actor_id": "user886991470",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 57,
+   "type": "service",
+   "date": "2020-03-14T12:03:48",
+   "actor": null,
+   "actor_id": "user886991470",
+   "action": "remove_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 58,
+   "type": "service",
+   "date": "2020-03-15T20:41:00",
+   "actor": "Mis",
+   "actor_id": "user526044043",
+   "action": "invite_members",
+   "members": [
+    "Mis"
+   ],
+   "text": ""
+  },
+  {
+   "id": 59,
+   "type": "service",
+   "date": "2020-04-01T15:21:46",
+   "actor": "Mane",
+   "actor_id": "user1130933942",
+   "action": "invite_members",
+   "members": [
+    "Mane"
+   ],
+   "text": ""
+  },
+  {
+   "id": 60,
+   "type": "service",
+   "date": "2020-04-01T16:35:32",
+   "actor": "Gerson Jafet",
+   "actor_id": "user922205228",
+   "action": "invite_members",
+   "members": [
+    "Gerson Jafet"
+   ],
+   "text": ""
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2020-04-01T16:36:03",
+   "from": "Gerson Jafet",
+   "from_id": "user922205228",
+   "text": "Hola!"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2020-04-01T18:06:14",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Hola"
+  },
+  {
+   "id": 63,
+   "type": "service",
+   "date": "2020-04-01T18:08:59",
+   "actor": null,
+   "actor_id": "user769247809",
+   "action": "edit_group_title",
+   "title": "Ensenada BC👍",
+   "text": ""
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2020-04-01T19:19:52",
+   "from": "Mane",
+   "from_id": "user1130933942",
+   "text": "Qué rollo rAza"
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2020-04-02T12:25:28",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Hola a todos"
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2020-04-02T12:26:28",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Que onda"
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2020-04-02T12:26:46",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Como les va con el coronavirus"
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2020-04-02T12:27:32",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👋",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2020-04-02T12:27:44",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👌",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2020-04-02T12:28:04",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Haha"
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2020-04-02T12:28:38",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Están \"with mothers\" los stickers del virus con todo y corona"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2020-04-02T12:29:15",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Por cierto"
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2020-04-02T12:30:29",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Aquí les dejo algo que hice para comprender el impacto de covid19 y ver si las medidas que estamos tomando están teniendo efecto. Podemos comparar con datos al día del centro de control de enfermedades europeo y universidad john Hopkins, como va México en comparación con EEUU España Italia Corea China y cualquier otro país del mundo"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2020-04-02T12:30:55",
+   "from": null,
+   "from_id": "user769247809",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2020-04-02T12:31:13",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://hlo.mx/covid19"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2020-04-02T12:31:34",
+   "from": null,
+   "from_id": "user769247809",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2020-04-02T12:32:29",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Funciona incluso en navegadores móviles pero es mejor en tablet o en computadora porque los detalles se aprecian mejor en pantallas más grandes y los controles de filtro son más fáciles de tocar"
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2020-04-02T12:32:57",
+   "from": null,
+   "from_id": "user769247809",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 79,
+   "type": "service",
+   "date": "2020-04-02T12:34:18",
+   "actor": null,
+   "actor_id": "user769247809",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2020-04-02T12:34:41",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "Si les late plz compartan en sus redes sociales y así, para hacer frente a la ignorancia y desinformación. Solo si jalamos todos parejos se puede vencer una pandemia, y al parecer hay muchos que todavía piensan que esto es un complot"
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2020-04-02T12:49:41",
+   "from": null,
+   "from_id": "user769247809",
+   "text": "Hola si no me conoces soy el administrador (dueño o creador) de este grupo\n\nTe invito a unirte a ensenada sin censura es un grupo que acabo de crear hay suvire noticias o cosas que pasen en ensenada te invito a unirte ..."
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2020-04-02T12:50:00",
+   "from": null,
+   "from_id": "user769247809",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@ensenadasincensura"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2020-04-02T12:50:10",
+   "from": null,
+   "from_id": "user769247809",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2020-04-02T12:50:13",
+   "from": null,
+   "from_id": "user769247809",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2020-04-02T12:57:30",
+   "from": "H. Lecuanda H-Lo 🇲🇽",
+   "from_id": "user217722386",
+   "text": "a poco hay censura en otros grupos? :v"
+  },
+  {
+   "id": 86,
+   "type": "service",
+   "date": "2020-04-04T13:30:54",
+   "actor": "Mon",
+   "actor_id": "user759883077",
+   "action": "invite_members",
+   "members": [
+    "Mon"
+   ],
+   "text": ""
+  },
+  {
+   "id": 87,
+   "type": "service",
+   "date": "2020-04-05T01:15:21",
+   "actor": "Angel marin Montes",
+   "actor_id": "user1251817841",
+   "action": "invite_members",
+   "members": [
+    "Angel marin Montes"
+   ],
+   "text": ""
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2020-04-05T01:15:30",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "text": "Ola"
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2020-04-05T01:15:33",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "text": "Como estan"
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2020-04-05T01:27:42",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "reply_to_message_id": 40,
+   "text": "Ola alondra"
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2020-04-07T00:37:04",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "text": "Ola"
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2020-04-07T00:37:07",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "text": "Que asen"
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2020-04-07T21:46:15",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "text": "Algun grupo de sexo"
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2020-04-07T21:47:43",
+   "from": "Gerson Jafet",
+   "from_id": "user922205228",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😂",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2020-04-07T21:48:39",
+   "from": "Angel marin Montes",
+   "from_id": "user1251817841",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2020-04-08T09:25:16",
+   "from": null,
+   "from_id": "user769247809",
+   "reply_to_message_id": 93,
+   "text": "Si amigo"
+  },
+  {
+   "id": 97,
