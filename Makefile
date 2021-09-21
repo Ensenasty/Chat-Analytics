@@ -7,7 +7,7 @@ VENV      = . .venv/bin/activate &&
 
 DATADIRS  = Ensenada-20210917/ ensenadaBC-20210917/ sexEnsenadaFinal/json/ 
 DATADIRS += usana-20210917/ valechat-20210907/ valechat-sddy-20210915/
-DATADIRS += ensenasty-20210920/ latinparty-20200920/
+DATADIRS += ensenasty-20210920/ latinparty-20210920/
 PROJECT = telegramops
 
 SRC != find . -name \*.py | grep -v .venv

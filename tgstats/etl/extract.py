@@ -1,4 +1,5 @@
 import json
+import os
 import fileinput
 from logzero import logger as log
 from transform import fixtype
@@ -12,14 +13,23 @@ def data_generator(r):
         dataset = json.load(chat)
         for conversation in dataset:
             for msg in conversation["messages"]:
-                all_messages.append(fixtype(msg, conversation["title"], rowct))
+                all_messages.append(fixtype(msg, conversation["name"], rowct))
                 rowct += 1
     return (msg for msg in all_messages)
 
 
-def extract():
+def extract(to="./data.json"):
+    try:
+        if os.stat(to):
+            log.info("removing prior {}".format(to))
+            os.remove(to)
+    except FileNotFoundError:
+        log.info("creating datafile {}".format(to))
+        pass
+
     total_lines = 0
-    with open("data.json", "w+", encoding="utf8") as outfile:
+    log.warn("Extraction started...")
+    with open(to, "w+", encoding="utf8") as outfile:
         firstfile = True
         outfile.writelines("[")
         for line in fileinput.input():
@@ -39,3 +49,5 @@ def extract():
             if line:
                 outfile.writelines(line)
         outfile.writelines("]")
+        log.warn("Extraction done...")
+        return to

@@ -3,7 +3,6 @@ from logzero import logger as log
 from extract import data_generator
 
 from transform import create_dataframe
-from transform import typecasts, aggregators
 
 
 def bigquery(
@@ -11,7 +10,9 @@ def bigquery(
     dataset=os.environ["BQDATASET"],
     project=os.environ["GCPPROJECT"],
     schema=[
+        {"name": "conversation", "type": "STRING"},
         {"name": "id", "type": "INTEGER"},
+        {"name": "from", "type": "STRING"},
         {"name": "text", "type": "STRING"},
         {"name": "wordcount", "type": "INTEGER"},
         {"name": "reply_to_message_id", "type": "INTEGER"},
@@ -22,7 +23,7 @@ def bigquery(
 
     log.info("creating bigquery dataset")
     src = data_generator(datafile)
-    chatinfo = create_dataframe(src, typecasts, aggregators)
+    chatinfo = create_dataframe(src)
     ts = chatinfo.to_gbq(
         "{}".format(dataset),
         project_id="{}".format(project),
