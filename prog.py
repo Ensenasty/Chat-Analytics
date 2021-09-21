@@ -1,15 +1,19 @@
 import sys
 import fire
+from logzero import logger as log
 
 sys.path.append("./tgstats")
 sys.path.append("./tgstats/etl")
 
 
 from tgstats.etl.extract import extract
+from tgstats.etl.load import bigquery
 
 if __name__ == "__main__":
 
-    fire.Fire(extract())
+    # bigquery(extract())
+    bigquery("./data.json")
+    log.info('all done')
 
 
 #  d(-_-;)bm  hlo.mx 1632006243

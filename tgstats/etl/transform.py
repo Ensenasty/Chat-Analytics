@@ -15,7 +15,10 @@ def gendeltas(timestamps_object, objname, seconds=False, dataframe=False):
     and previous timestamp value. First timedelta is always 0"""
     deltaidx = pd.RangeIndex(0, len(timestamps_object), name="align")
     a = datetime.now()
-    zerodelta = a - a
+    if seconds:
+        zerodelta = 0
+    else:
+        zerodelta = a - a
     deltas = [zerodelta]
     for old, new in windowed_iter(timestamps_object, 2):
         # _, old,  _ = older
@@ -23,7 +26,6 @@ def gendeltas(timestamps_object, objname, seconds=False, dataframe=False):
         deltatime = datetime.fromisoformat(str(new)) - datetime.fromisoformat(str(old))
         if seconds:
             deltatime = deltatime.total_seconds()
-            zerodelta = 0
         if deltatime >= zerodelta:
             deltas.append(deltatime)
         else:
@@ -44,8 +46,10 @@ def fixtype(data, title, ordinal):
     facility, Currently set up for Google Cloud Storage buckets.
     """
     newdata = data.copy()
-    newdata["conv_grp"] = title
+    newdata["conversation"] = title
     newdata["date"] = datetime.fromisoformat(data["date"])
+    if "from" in data.keys():
+        newdata["user"] = data["from"]
     if "photo" in data.keys():
         newdata["photo"] = fixurl(data["photo"])
     if "file" in data.keys():
@@ -56,7 +60,7 @@ def fixtype(data, title, ordinal):
     return newdata
 
 
-aggregators = {
+default_agg = {
     "from": countnz,
     "id": countnz,
     "photo": countnz,
@@ -66,20 +70,21 @@ aggregators = {
     "wordcount": np.sum,
 }
 
-typecasts = {
+default_cast = {
+    "conversation": "string",
     "from": "string",
     "date": "datetime64[ns]",
     "id": "Int64",
     "photo": "string",
     "reply_to_message_id": "Int64",
     "text": "string",
-    "wait_time": "seconds",
+    "wait_time": "float",
     # "wait_time": "timedelta64[ns]", #use this to get pandas timedeltas
     "wordcount": "Int64",
 }
 
 
-def create_dataframe(src, casts, aggregators):
+def create_dataframe(src, typecasts=default_cast, aggregators=default_agg):
     """Creates as dataframe containing chat info
 
     Parameters:
@@ -102,19 +107,17 @@ def create_dataframe(src, casts, aggregators):
         [m for m in for_fields],
         index=["align"],
     )  # use the dataframe for field masking agains the list we know we need
-    excluded_fields = (
-        [excl for excl in list(fielder.columns) if excl not in typecasts.keys()],
-    )
+    # excluded_fields = (
+    # [excl for excl in fielder.columns if excl not in typecasts.keys()],
+    # )
     # build a new dataframe using the for_dataframe duplicated stream, add an
     # add an index called allign so we can add new columns in their corresponding
     # places.
-    df = pd.DataFrame.from_records(
-        [m for m in for_dataframe], index=["align"], exclude=excluded_fields
-    ).fillna(
+    df = pd.DataFrame.from_records([m for m in for_dataframe], index=["align"],).fillna(
         np.nan
     )  # empty fields get np.nan as a value
     # now create a deltas vectpr by walking thrugh the column of datetimes
-    if casts["wait_time"] == "seconds":
+    if typecasts["wait_time"] == "float":
         seconds = True
     deltas = gendeltas(df.date, "wait_time", seconds)  # when seconds ins false
     # you get a column of pandas ditmedelta types, otherwise total seconds
